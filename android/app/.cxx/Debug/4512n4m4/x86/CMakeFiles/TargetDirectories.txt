@@ -1,0 +1,2 @@
+C:/src/tugas_slicing/android/app/.cxx/Debug/4512n4m4/x86/CMakeFiles/edit_cache.dir
+C:/src/tugas_slicing/android/app/.cxx/Debug/4512n4m4/x86/CMakeFiles/rebuild_cache.dir
